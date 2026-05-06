@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-el-shouq/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Mekhabi El Shouq](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Mekhabi El Shouq](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
