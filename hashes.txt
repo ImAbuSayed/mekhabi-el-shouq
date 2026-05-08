@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mekhabi El Shouq
+
+This log tracks the cryptographic history and versioning for the song **Mekhabi El Shouq** (mekhabi-el-shouq).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:32:36.020830 | `v1` | `7a6d6e28a7eaa7e6211d1d11b78e11d40ac74ec2d657d4ae5940c11b533905e6` | `48c4efc88e07b8a99203300b5c93334b93f684f1783028cdb622adb3466c4ff0` | `2026-05-08_mekhabi-el-shouq-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
